@@ -1,3 +1,11 @@
 Fork a repo on Github 
 Git clone (get a local copy of forked repo)
-Git init -- initializing empty repo 
+Git init -- initializing empty repo
+
+.gitignore
+
+Git status - check status of repo 
+Git add - to track and stage changes 
+Git commit - to make changes 
+Git log - to show commit history 
+ 
