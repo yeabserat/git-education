@@ -1,0 +1,7 @@
+It has easy explanation to understand :-
+What is Git?
+Why should we learn Git?
+Where do we begin?
+
+Git helps us manage our files. 
+It has history, collaboration with others, feature branches
